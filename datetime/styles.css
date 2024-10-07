@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Oxygen', sans-serif;
+  background-color: #FFFFFF;
+}
+
+.datetime-component {
+  position: absolute;
+  width: 185px;
+  height: 112.07px;
+  top: 415px;
+  left: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.time-text {
+  position: relative;
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56.25px;
+  line-height: 71px;
+  color: #2DBDB1;
+}
+
+.am-text {
+  position: relative;
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  color: #2DBDB1;
+  margin-bottom: 4px;
+}
+
+.date-text {
+  position: relative;
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18.75px;
+  line-height: 24px;
+  color: #4B5853;
+  margin-top: 4px;
+}

@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Oxygen', sans-serif;
+  background-color: #FFFFFF;
+}
+
+.quarterly-goals {
+  position: absolute;
+  width: 343.31px;
+  height: 427.78px;
+  top: 723px;
+  left: 30px;
+  gap: 0px;
+  opacity: 0px;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.quarterly-goals-title {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 400;
+  font-size: 27.5px;
+  color: #4B5853;
+  margin-bottom: 10px;
+}
+
+.quarter {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 700;
+  font-size: 22.5px;
+  color: #4B5853;
+  margin-bottom: 5px;
+}
+
+.pencil-logo {
+  position: absolute;
+  left: 3.7%;
+  right: 94.56%;
+  top: 65.49%;
+  bottom: 32.88%;
+}
+
+.pencil-logo img {
+  position: absolute;
+  width: 19.97px;
+  right: 1086.5px;
+  top: 65.49%;
+  bottom: 32.88%;
+  background: #2DBDB1;
+}
+
+.goal {
+  margin-bottom: 20px;
+}
+
+.goal p {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 400;
+  font-size: 16.25px;
+  color: #5A5A5A;
+  margin: 0;
+}
+
+.goal-details {
+  margin-top: 5px;
+}
+
+.hashtag {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 15px;
+  color: #5A5A5A;
+  display: block;
+  margin-bottom: 5px;
+}
+
+#algorithms-hashtag {
+  color: #FFB987;
+}
+
+#internship-hashtag {
+  color: #2DBDB1;
+}
+
+#interview-hashtag {
+  color: #EE8B72;
+}
+
+.progress {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 15px;
+  color: #5A5A5A;
+  display: block;
+  margin-top: 5px;
+}
+
+.add-goal {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 400;
+  font-size: 17.5px;
+  color: #5A5A5A;
+  margin-top: 10px;
+  padding-left: 0px;
+}
+
+.line {
+  border-bottom: 1.25px solid rgba(0, 0, 0, 0.15);
+  margin: 10px 0;
+}
+
+.line {
+  border-bottom: 1.25px solid rgba(0, 0, 0, 0.15);
+  margin: 10px 0;
+}
